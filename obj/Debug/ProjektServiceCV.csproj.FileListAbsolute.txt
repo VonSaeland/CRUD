@@ -1,0 +1,46 @@
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\ApplicationInsights.config
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\ProjektServiceCV.dll.config
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\ProjektServiceCV.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\ProjektServiceCV.pdb
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.Agent.Intercept.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.DependencyCollector.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.Web.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.WindowsServer.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.ApplicationInsights.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.DependencyCollector.xml
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.Web.xml
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.WindowsServer.xml
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.ApplicationInsights.xml
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\obj\Debug\ProjektServiceCV.csprojResolveAssemblyReference.cache
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\obj\Debug\ProjektServiceCV.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\obj\Debug\ProjektServiceCV.pdb
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\EntityFramework.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\EntityFramework.SqlServer.dll
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\EntityFramework.xml
+E:\OneDrive\VisualStudioProjekt\ProjektServiceCV\ProjektServiceCV\bin\EntityFramework.SqlServer.xml
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\ApplicationInsights.config
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\ProjektServiceCV.dll.config
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\ProjektServiceCV.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\ProjektServiceCV.pdb
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\EntityFramework.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\EntityFramework.SqlServer.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.Agent.Intercept.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.DependencyCollector.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.Web.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.WindowsServer.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.ApplicationInsights.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\EntityFramework.xml
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\EntityFramework.SqlServer.xml
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.DependencyCollector.xml
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.Web.xml
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.AI.WindowsServer.xml
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\bin\Microsoft.ApplicationInsights.xml
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\obj\Debug\ProjektServiceCV.csprojResolveAssemblyReference.cache
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\obj\Debug\ProjektServiceCV.dll
+E:\OneDrive\VisualStudioProjekt\Ny mapp\ProjektServiceCV\ProjektServiceCV\obj\Debug\ProjektServiceCV.pdb
